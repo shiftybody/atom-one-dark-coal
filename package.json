@@ -1,0 +1,22 @@
+{
+    "name": "shiftydark-theme",
+    "displayName": "shiftydark-theme",
+    "description": "shifty dark color-theme",
+    "version": "0.0.1",
+    "publisher": "shiftydark",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "shiftydark-theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/shiftydark-color-theme.json"
+            }
+        ]
+    }
+}
