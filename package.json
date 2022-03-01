@@ -3,7 +3,11 @@
     "displayName": "shiftydark-theme",
     "description": "shifty dark color-theme",
     "version": "0.0.1",
-    "publisher": "shiftydark",
+    "publisher": "shiftydark-theme",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/shiftybody/shiftydark-theme"
+    },
     "engines": {
         "vscode": "^1.64.0"
     },
