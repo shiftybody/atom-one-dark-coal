@@ -1,4 +1,6 @@
-# README
-## This is the README for the "ShiftyDark" color theme extension
 
-This is my personal color theme configuration enjoy it !
+## Atom One Dark Lignite
+
+This is my personal color theme configuration based on the 
+
+Atom One Dark color sintax using a Lignite background.

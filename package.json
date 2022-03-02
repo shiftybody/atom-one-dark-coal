@@ -1,12 +1,12 @@
 {
-    "name": "shiftydark-theme",
-    "displayName": "shiftydark-theme",
-    "description": "shifty dark color-theme",
+    "name": "atom-one-dark-lignite",
+    "displayName": "Atom One dark lignite",
+    "description": "Atom One Dark Theme with a darker background color",
     "version": "0.0.1",
-    "publisher": "shiftydark-theme",
+    "publisher": "Atom One dark lignite",
     "repository": {
         "type": "git",
-        "url": "https://github.com/shiftybody/shiftydark-theme"
+        "url": "https://github.com/shiftybody/atom-one-dark-lignite"
     },
     "engines": {
         "vscode": "^1.64.0"
@@ -17,9 +17,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "shiftydark-theme",
+                "label": "Atom One dark lignite",
                 "uiTheme": "vs-dark",
-                "path": "./themes/shiftydark-color-theme.json"
+                "path": "./themes/atom-one-dark-lignite.json"
             }
         ]
     }
