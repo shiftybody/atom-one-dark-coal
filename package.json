@@ -3,7 +3,7 @@
     "displayName": "Atom One dark lignite",
     "description": "Atom One Dark Theme with a darker background color",
     "version": "0.0.1",
-    "publisher": "Atom One dark lignite",
+    "publisher": "atom-one-dark-lignite",
     "repository": {
         "type": "git",
         "url": "https://github.com/shiftybody/atom-one-dark-lignite"
