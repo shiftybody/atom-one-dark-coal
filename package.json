@@ -1,6 +1,6 @@
 {
     "name": "atom-one-dark-coal",
-    "displayName": "Atom One dark coal",
+    "displayName": "Atom One Dark Coal",
     "description": "Atom One Dark Theme with a darker background color",
     "version": "1.0.0",
     "icon": "images/icon.png",
@@ -18,7 +18,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Atom One dark coal",
+                "label": "Atom One Dark Coal",
                 "uiTheme": "vs-dark",
                 "path": "./themes/atom-one-dark-coal.json"
             }
