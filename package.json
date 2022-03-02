@@ -1,12 +1,13 @@
 {
-    "name": "atom-one-dark-lignite",
-    "displayName": "Atom One dark lignite",
+    "name": "atom-one-dark-coal",
+    "displayName": "Atom One dark coal",
     "description": "Atom One Dark Theme with a darker background color",
     "version": "0.0.1",
-    "publisher": "atom-one-dark-lignite",
+    "icon": "images/icon.png",
+    "publisher": "shiftybody",
     "repository": {
         "type": "git",
-        "url": "https://github.com/shiftybody/atom-one-dark-lignite"
+        "url": "https://github.com/shiftybody/atom-one-dark-coal"
     },
     "engines": {
         "vscode": "^1.64.0"
@@ -17,9 +18,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Atom One dark lignite",
+                "label": "Atom One dark coal",
                 "uiTheme": "vs-dark",
-                "path": "./themes/atom-one-dark-lignite.json"
+                "path": "./themes/atom-one-dark-coal.json"
             }
         ]
     }
