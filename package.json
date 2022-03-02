@@ -2,7 +2,7 @@
     "name": "atom-one-dark-coal",
     "displayName": "Atom One dark coal",
     "description": "Atom One Dark Theme with a darker background color",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "icon": "images/icon.png",
     "publisher": "shiftybody",
     "repository": {
